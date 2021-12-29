@@ -1,5 +1,5 @@
 
-![](github_profile_readme.jpg)
+![](github_profile_readme.png)
 
 - 👋 Hi, My name is Sunil S. Singh. You can call me Sunil. Please have a look at my [Data Science Portfolio](https://sssingh.github.io/DSPortfolio/) to learn more about me and my work. 
 - 👀 I’m interested in ... Advancing my knowledge of Deep Learning techniques and applying them to solve real-life problems.
