@@ -23,9 +23,9 @@
   <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
   <img src="r-logo.png" width="50" />&nbsp;&nbsp;
   <img src="scikit-learn-logo.png" width="50" height="33"/>&nbsp;&nbsp;
-  <img src="pytorch-logo.png" width="50" height="25"/>&nbsp;&nbsp;
+  <img src="Pytorch-logo.png" width="50" height="25"/>&nbsp;&nbsp;
   <img src="numpy-logo.png" width="50" />&nbsp;&nbsp;
-  <img src="pandas-logo.svg.png" width="50" height="25"/>&nbsp;&nbsp;
+  <img src="pandas-logo.png" width="50" height="25"/>&nbsp;&nbsp;
   <img src="matplotlib-logo.png" width="50" />&nbsp;&nbsp;
   <img src="sql-logo.png" width="50" />&nbsp;&nbsp;
 </p>
