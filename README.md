@@ -26,8 +26,8 @@
   <img src="matplotlib-logo.png" width="70" height="40"/>
 </p>
 <p float="left">
-  <img src="capital-market.png" width="110" />&nbsp;&nbsp;
-  <img src="project-management-logo.png" width="80" />&nbsp;&nbsp; 
+  <img src="capital-market.png" width="120" />&nbsp;&nbsp;
+  <img src="project-management-logo.png" width="95" />&nbsp;&nbsp; 
   <img src="business-analysis-logo.png" width="70" />&nbsp;&nbsp;
 </p>
 
