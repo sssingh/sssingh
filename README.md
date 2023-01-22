@@ -21,14 +21,13 @@
   <img src="scikit-learn-logo.png" width="65" height="35"/>&nbsp;&nbsp;
   <img src="Pytorch-logo.png" width="60" height="30"/>&nbsp;&nbsp;
   <img src="numpy-logo.png" width="58" />&nbsp;&nbsp;
-  <img src="sql-logo.png" width="50" />;
-  <img src="Pandas-logo.png" width="70" height="40"/>;
-  <img src="matplotlib-logo.png" width="70" height="40"/>&nbsp;&nbsp;
+  <img src="sql-logo.png" width="50" />
+  <img src="Pandas-logo.png" width="70" height="40"/>
+  <img src="matplotlib-logo.png" width="70" height="40"/>
 </p>
-<br>
 <p float="left">
-  <img src="capital-market.png" width="90" />&nbsp;&nbsp;
-  <img src="project-management-logo.png" width="70" />&nbsp;&nbsp; 
+  <img src="capital-market.png" width="110" />&nbsp;&nbsp;
+  <img src="project-management-logo.png" width="80" />&nbsp;&nbsp; 
   <img src="business-analysis-logo.png" width="70" />&nbsp;&nbsp;
 </p>
 
