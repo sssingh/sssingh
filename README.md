@@ -17,7 +17,15 @@
 * I hold a `Bachelor of Engineering Degree (BE)` in `Computer Science`, `Post Graduate Diploma (PGD)` in `Data Science`, and `Master of Science (MS)` degree in `Data Science`
 
 
-## 🛠 Skills
-        |  
-:-------------------------:|:-------------------------:
-![]([(https://github.com/sssingh/sssingh/blob/main/python-logo.png)  |  ![](https://github.com/sssingh/sssingh/blob/main/r-logo.png)
+## 🛠 Skills       |  
+<p float="left">
+  <img src="powerBI-logo.png" width="85"/>&nbsp;&nbsp;  
+  <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
+  <img src="r-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="scikit-learn-logo.png" width="50" height="33"/>&nbsp;&nbsp;
+  <img src="pytorch-logo.png" width="50" height="25"/>&nbsp;&nbsp;
+  <img src="numpy-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="pandas-logo.svg.png" width="50" height="25"/>&nbsp;&nbsp;
+  <img src="matplotlib-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="sql-logo.png" width="50" />&nbsp;&nbsp;
+</p>
