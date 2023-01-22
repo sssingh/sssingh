@@ -14,10 +14,9 @@
 * I hold a `Bachelor of Engineering Degree (BE)` in `Computer Science`, `Post Graduate Diploma (PGD)` in `Data Science`, and `Master of Science (MS)` degree in `Data Science`
 
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssingh&&show_icons=true&theme=cobalt)
-
 ## 🛠 Skills
 <img src="https://github.com/sssingh/sssingh/blob/main/python-logo.png" alt="Python" width="50"/>
 <img src="https://github.com/sssingh/sssingh/blob/main/r-logo.png" alt="R" width="50"/>
 
+## Stats
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssingh&&show_icons=true&theme=cobalt)
