@@ -17,19 +17,19 @@
 <p float="left">  
   <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
   <img src="r-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="powerBI-logo.png" width="85"/>&nbsp;&nbsp;
   <img src="scikit-learn-logo.png" width="65" height="35"/>&nbsp;&nbsp;
   <img src="Pytorch-logo.png" width="60" height="30"/>&nbsp;&nbsp;
   <img src="numpy-logo.png" width="58" />&nbsp;&nbsp;
-  <img src="Pandas-logo.png" width="65" height="35"/>&nbsp;&nbsp;
-  <img src="matplotlib-logo.png" width="65" height="35"/>&nbsp;&nbsp;
-  <img src="powerBI-logo.png" width="85"/>&nbsp;&nbsp;
-  <img src="sql-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="sql-logo.png" width="50" />;
+  <img src="Pandas-logo.png" width="70" height="40"/>;
+  <img src="matplotlib-logo.png" width="70" height="40"/>&nbsp;&nbsp;
 </p>
-
+<br>
 <p float="left">
-  <img src="capital-market.png" width="60" />&nbsp;&nbsp;
-  <img src="project-management-logo.png" width="60" />&nbsp;&nbsp; 
-  <img src="business-analysis-logo.png" width="60" />&nbsp;&nbsp;
+  <img src="capital-market.png" width="90" />&nbsp;&nbsp;
+  <img src="project-management-logo.png" width="70" />&nbsp;&nbsp; 
+  <img src="business-analysis-logo.png" width="70" />&nbsp;&nbsp;
 </p>
 
 ## 📈 Stats
