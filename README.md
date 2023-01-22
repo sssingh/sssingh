@@ -15,7 +15,7 @@
 
 ## 🛠 Skills
 <p float="left">
-  <img src="data-analysis.png" width="110" />&nbsp;&nbsp;
+  <img src="data-analysis.png" width="130" />&nbsp;&nbsp;
   <img src="machine-learning.png" width="70" />&nbsp;&nbsp;
   <img src="deep-learning.jpg" width="70" />&nbsp;&nbsp; 
 </p>
