@@ -9,11 +9,16 @@
 ## 🚀 About Me
 * I am a `Data Scientist`, a seasoned `Business Analyst`, and a `Change Leader`. 
 * I have expertise in the capital markets domain, specializing in securities trading,  post-trade processing, and security operations.
-* I am passionate, excited, and constantly learning about everything "Data" and related disciplines of `Data Analysis`, `Machine Learning`, and `Deep Learning`
+* I am passionate, constantly experimenting and learning about everything "Data" and related disciplines of `Data Analysis`, `Machine Learning`, and `Deep Learning`
 * I hold a `Bachelor of Engineering Degree (BE)` in `Computer Science`, `Post Graduate Diploma (PGD)` in `Data Science`, and `Master of Science (MS)` degree in `Data Science`
 
 
-## 🛠 Skills 
+## 🛠 Skills
+<p float="left">
+  <img src="data-analysis.png" width="90" />&nbsp;&nbsp;
+  <img src="machine-learning.png" width="70" />&nbsp;&nbsp;
+  <img src="deep-learning.png" width="70" />&nbsp;&nbsp; 
+</p>
 <p float="left">  
   <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
   <img src="r-logo.png" width="50" />&nbsp;&nbsp;
