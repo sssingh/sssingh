@@ -6,6 +6,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sssingh/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@_sssingh)
 
+## 📈 Stats
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssingh&&show_icons=true&theme=cobalt)
+
 
 ## 🚀 About Me
 * I am a `Data Scientist`, a seasoned `Business Analyst`, and a `Change Leader`. 
@@ -15,8 +18,5 @@
 
 
 ## 🛠 Skills
-<img src="https://github.com/sssingh/sssingh/blob/main/python-logo.png" alt="Python" width="50"/>
-<img src="https://github.com/sssingh/sssingh/blob/main/r-logo.png" alt="R" width="50"/>
-
-## Stats
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssingh&&show_icons=true&theme=cobalt)
+<img src="https://github.com/sssingh/sssingh/blob/main/python-logo.png" alt="Python" width="30"/>
+<img src="https://github.com/sssingh/sssingh/blob/main/r-logo.png" alt="R" width="30"/>
