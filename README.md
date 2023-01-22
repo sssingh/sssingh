@@ -18,5 +18,5 @@
 
 
 ## 🛠 Skills
-<img src="https://github.com/sssingh/sssingh/blob/main/python-logo.png" alt="Python" width="30"/>
-<img src="https://github.com/sssingh/sssingh/blob/main/r-logo.png" alt="R" width="30"/>
+<img src="https://github.com/sssingh/sssingh/blob/main/python-logo.png" alt="Python" width="30" style="width:50%"/>
+<img src="https://github.com/sssingh/sssingh/blob/main/r-logo.png" alt="R" width="30" style="width:50%"/>
