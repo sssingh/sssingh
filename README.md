@@ -18,6 +18,6 @@
 
 
 ## 🛠 Skills
-Python             |  R
+        |  
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/sssingh/sssingh/blob/main/python-logo.png))  |  ![]([https://...Ocean.png](https://github.com/sssingh/sssingh/blob/main/r-logo.png))
+![]([(https://github.com/sssingh/sssingh/blob/main/python-logo.png)  |  ![](https://github.com/sssingh/sssingh/blob/main/r-logo.png)
