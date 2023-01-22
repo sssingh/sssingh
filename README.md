@@ -22,10 +22,10 @@
   <img src="powerBI-logo.png" width="85"/>&nbsp;&nbsp;  
   <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
   <img src="r-logo.png" width="50" />&nbsp;&nbsp;
-  <img src="scikit-learn-logo.png" width="50" height="33"/>&nbsp;&nbsp;
-  <img src="Pytorch-logo.png" width="50" height="25"/>&nbsp;&nbsp;
-  <img src="numpy-logo.png" width="50" />&nbsp;&nbsp;
-  <img src="pandas-logo.png" width="50" height="25"/>&nbsp;&nbsp;
-  <img src="matplotlib-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="scikit-learn-logo.png" width="60" height="35"/>&nbsp;&nbsp;
+  <img src="Pytorch-logo.png" width="60" height="30"/>&nbsp;&nbsp;
+  <img src="numpy-logo.png" width="60" />&nbsp;&nbsp;
+  <img src="Pandas-logo.png" width="60" height="30"/>&nbsp;&nbsp;
+  <img src="matplotlib-logo.png" width="60" height="30"/>&nbsp;&nbsp;
   <img src="sql-logo.png" width="50" />&nbsp;&nbsp;
 </p>
