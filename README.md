@@ -19,16 +19,17 @@
   <img src="deep-learning.jpg" width="70" />&nbsp;&nbsp; 
   <img src="data-analytics.png" width="110" />
 </p>
-<p float="left">  
-  <img src="python-logo.png" width="50" />&nbsp;&nbsp; 
-  <img src="r-logo.png" width="50" />&nbsp;&nbsp;
-  <img src="powerBI-logo.png" width="85"/>&nbsp;&nbsp;
-  <img src="scikit-learn-logo.png" width="65" height="35"/>&nbsp;&nbsp;
-  <img src="Pytorch-logo.png" width="60" height="30"/>&nbsp;&nbsp;
-  <img src="numpy-logo.png" width="58" />&nbsp;&nbsp;
+<p float="left">
   <img src="sql-logo.png" width="50" />
-  <img src="Pandas-logo.png" width="70" height="40"/>
-  <img src="matplotlib-logo.png" width="70" height="40"/>
+  <img src="python-logo.png" width="50" />&nbsp;&nbsp;
+  <img src="pandas-logo.png" width="70" height="40"/>
+  <img src="plotly-logo.png" width="58" />&nbsp;&nbsp;
+  <img src="seaborn-logo.png" width="58" />&nbsp;&nbsp;
+  <img src="matplotlib-logo.jpg" width="70" height="40"/>
+  <img src="streamlit-logo.jpg" width="50" />&nbsp;&nbsp;
+  <img src="powerbi-logo.jpg" width="85"/>&nbsp;&nbsp;
+  <img src="scikit-learn-logo.png" width="65" height="35"/>&nbsp;&nbsp;
+  <img src="pytorch-logo.png" width="60" height="30"/>&nbsp;&nbsp; 
 </p>
 <p float="left">
   <img src="capital-market.png" width="120" />&nbsp;&nbsp;
