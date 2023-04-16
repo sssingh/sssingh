@@ -33,7 +33,7 @@
 </p>
 <p float="left">
   <img src="capital-market.png" width="120" />&nbsp;&nbsp;
-  <img src="pm-logo.png" width="95" />&nbsp;&nbsp; 
+  <img src="pm-logo.jpg" width="95" />&nbsp;&nbsp; 
   <img src="business-analysis-logo.png" width="70" />&nbsp;&nbsp;
 </p>
 
