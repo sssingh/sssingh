@@ -15,9 +15,9 @@
 
 ## 🛠 Skills
 <p float="left">
-  <img src="machine-learning.png" width="90" height="70"/>&nbsp;&nbsp;
-  <img src="deep-learning.jpg" width="90" height="70"/>&nbsp;&nbsp; 
-  <img src="data-analytics.png" width="90" height="70"/>
+  <img src="machine-learning.png" width="100" height="70"/>&nbsp;&nbsp;
+  <img src="deep-learning.jpg" width="100" height="70"/>&nbsp;&nbsp; 
+  <img src="data-analytics.png" width="100" height="70"/>
 </p>
 <p float="left">
   <img src="python-logo.png" width="60" height="50" />&nbsp;&nbsp;
@@ -32,9 +32,9 @@
   <img src="pytorch-logo.png" width="70" height="50" />&nbsp;&nbsp; 
 </p>
 <p float="left">
-  <img src="capital-market.png" width="90" height="70"/>&nbsp;&nbsp;
-  <img src="pm-logo.jpg" width="90" height="70"/>&nbsp;&nbsp; 
-  <img src="business-analysis-logo.png" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="capital-market.png" width="100" height="70"/>&nbsp;&nbsp;
+  <img src="pm-logo.jpg" width="100" height="70"/>&nbsp;&nbsp; 
+  <img src="business-analysis-logo.png" width="100" height="70"/>&nbsp;&nbsp;
 </p>
 
 ## 📈 Stats
