@@ -21,15 +21,15 @@
 </p>
 <p float="left">
   <img src="python-logo.png" width="60" height="50" />&nbsp;&nbsp;
-  <img src="sql-logo.png" width="60" height="50" />
-  <img src="pandas-logo.png" width="60" height="50"/>
-  <img src="plotly-logo.png" width="60" height="50" />&nbsp;&nbsp;
-  <img src="seaborn-logo.png" width="60" height="50" />&nbsp;&nbsp;
-  <img src="matplotlib-logo.jpg" width="60" height="50" height="40"/>
-  <img src="streamlit-logo.jpg" width="60" height="50" />&nbsp;&nbsp;
-  <img src="powerbi-logo.jpg" width="60" height="50"/>&nbsp;&nbsp;
-  <img src="scikit-learn-logo.png" width="60" height="50" />&nbsp;&nbsp;
-  <img src="pytorch-logo.png" width="60" height="50" />&nbsp;&nbsp; 
+  <img src="sql-logo.png" width="70" height="50" />
+  <img src="pandas-logo.png" width="70" height="50"/>
+  <img src="plotly-logo.png" width="70" height="50" />&nbsp;&nbsp;
+  <img src="seaborn-logo.png" width="70" height="50" />&nbsp;&nbsp;
+  <img src="matplotlib-logo.jpg" width="70" height="50" height="40"/>
+  <img src="streamlit-logo.jpg" width="70" height="50" />&nbsp;&nbsp;
+  <img src="powerbi-logo.jpg" width="70" height="50"/>&nbsp;&nbsp;
+  <img src="scikit-learn-logo.png" width="70" height="50" />&nbsp;&nbsp;
+  <img src="pytorch-logo.png" width="70" height="50" />&nbsp;&nbsp; 
 </p>
 <p float="left">
   <img src="capital-market.png" width="120" />&nbsp;&nbsp;
