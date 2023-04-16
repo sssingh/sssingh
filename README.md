@@ -17,7 +17,7 @@
 <p float="left">
   <img src="machine-learning.png" width="100" height="70"/>&nbsp;&nbsp;
   <img src="deep-learning.jpg" width="100" height="70"/>&nbsp;&nbsp; 
-  <img src="data-analytics.png" width="100" height="70"/>
+  <img src="data-analytics.png" width="110" height="70"/>
 </p>
 <p float="left">
   <img src="python-logo.png" width="60" height="50" />&nbsp;&nbsp;
